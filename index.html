@@ -1,1 +1,27 @@
-<h1>Expos</h1>
+<html>
+    <head>
+        <title>Exposé sur les metiers du futures</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <img src="nouvelleviepro-mooc-metier.jpg" alt="image de fond" class="img_f">
+        <div id="container">
+            <select id="metiers">
+                <option value="he">Hackeur éthique</option>
+                <option value="RSSI">RSSI</option>
+            </select>
+            <button onclick="metiers_choice()">OK</button>
+        </div>
+        <script src="main.js">
+                var metier = document.getElementById("metiers");
+            function metiers_choice (){
+                if (metier === "he") {
+                    alert("Hackeur éthique");
+                }
+                if (metier === "RSSI") {
+                    alert("RSSI");
+                }
+            }
+        </script>
+    </body>
+</html>
