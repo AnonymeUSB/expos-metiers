@@ -21,6 +21,7 @@ body {
     width: 70%;
     height: 20%;
     opacity: 70%;
+    border-radius:20px 20px;
 }
 
 #texte {
@@ -31,9 +32,11 @@ body {
 #metiers {
     font-size: 500%;
     border: none;
+    border-radius:20px 20px;
 }
 
 button {
     font-size: 480%;
     border: none;
+    border-radius:20px 20px;
 }
