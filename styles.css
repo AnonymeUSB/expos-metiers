@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .img_f {
     position: absolute;
     top: 0%;
@@ -15,4 +21,19 @@
     width: 70%;
     height: 20%;
     opacity: 70%;
+}
+
+#texte {
+    color: aqua;
+    font-size: 500%;
+}
+
+#metiers {
+    font-size: 500%;
+    border: none;
+}
+
+button {
+    font-size: 480%;
+    border: none;
 }
