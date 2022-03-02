@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Space Age;
+    src: url("../space\ age.ttf");
+   }
+
+.img_f {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+#titre {
+    position: absolute;
+    color: aqua;
+    font-family: Space Age;
+    font-size: 600%;
+    top: 10%;
+    left: 15%;
+}
