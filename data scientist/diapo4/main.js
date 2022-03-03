@@ -1,5 +1,5 @@
 function droite() {
-    window.open("../diapo4/index.html", "_self");
+    window.open("../diapo3/index.html", "_self");
 }
 
 function bas() {
