@@ -4,7 +4,7 @@ Les missions d'un data scientist sont multiples :
 - Prendre des décisions marketing à partir des données
 - Définir des solutions de stockage pour les données
 - Construirent des algorithmes de recherche
-- création de modèles de prédictions
+- Création de modèles de prédictions
 - Création de tableaux de bord pour l'exploitation des données
 - Veille technologique
 - Machine learning
